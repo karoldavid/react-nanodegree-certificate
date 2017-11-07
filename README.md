@@ -6,15 +6,15 @@
 
 * [Mobile Flashcards](https://github.com/karoldavid/flashcards): Study Flashcards App
 
-Build with create-react-native-app, uses Redux and Redux Thunk
+Build with Create React Native App, uses Redux and Redux Thunk
 
 * [Readable](https://github.com/karoldavid/readable): Content Web App
 
-Build with create-react-app, uses Redux and Redux Thunk
+Build with Create React App, uses Redux and Redux Thunk
 
-* [My Reads](https://github.com/karoldavid/myreads): Book Traching App
+* [My Reads](https://github.com/karoldavid/myreads): Book Tracking App
 
-Build with create-react-app
+Build with Create React App
 
 ## Author
 
