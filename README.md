@@ -4,7 +4,7 @@
 
 ## Projects
 
-* [Mobile Flashcards](https://github.com/karoldavid/flashcard): Study Flashcards App
+* [Mobile Flashcards](https://github.com/karoldavid/flashcards): Study Flashcards App
 
 Build with create-react-native-app, uses Redux and Redux Thunk
 
