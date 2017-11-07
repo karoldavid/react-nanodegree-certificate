@@ -22,6 +22,6 @@ Build with Create React App
 
 Questions? Send an email to: k.zysk@zoho.com
 
-## Acknowledgments
+## Acknowledgements
 
 * https://www.udacity.com/course/react-nanodegree--nd019
