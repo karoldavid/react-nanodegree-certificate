@@ -12,7 +12,7 @@ Build with create-react-native-app, uses Redux and Redux Thunk
 
 Build with create-react-app, uses Redux and Redux Thunk
 
-* [My Reads(https://github.com/karoldavid/myreads): Book Traching App
+* [My Reads](https://github.com/karoldavid/myreads): Book Traching App
 
 Build with create-react-app
 
